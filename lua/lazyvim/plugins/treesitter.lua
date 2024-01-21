@@ -60,6 +60,7 @@ return {
         "html",
         "javascript",
         "jsdoc",
+        "clojure",
         "json",
         "jsonc",
         "lua",
